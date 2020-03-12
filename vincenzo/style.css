@@ -1,0 +1,31 @@
+:root {
+    font-size: 0.5rem;
+}
+
+.x-small {
+    font-size: x-small;
+}
+
+.small {
+    font-size: small;
+}
+
+.medium {
+    font-size: medium;
+}
+
+.large {
+    font-size: large;
+}
+
+.x-large {
+    font-size: x-large;
+}
+
+footer {
+    font-size: 3rem;
+}
+
+.description {
+    font-size: 3em;
+}
