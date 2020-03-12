@@ -1,0 +1,55 @@
+:root {
+    font-size: 1rem;
+}
+.x-small {
+    font-size: 0.5rem;
+}
+.small {
+    font-size: 1rem;
+}
+.medium {
+    font-size: 1.5rem;
+}
+.large {
+    font-size: 2rem;
+}
+.x-large {
+    font-size: 2.25rem;
+}
+footer {
+    font-size: 2rem;
+
+}
+footer .description {
+    font-size: 1.8rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+class="x-small">Very Small</p>
+        <p class="small">Small</p>
+        <p class="medium">Medium</p>
+        <p class="large">Large</p>
+        <p class="x-large">Extra Large</p>
